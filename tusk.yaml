@@ -1,0 +1,6 @@
+---
+tasks:
+  build:
+    usage: Build dockerfile
+    run:
+      - docker build -t hapana/toolkit .
