@@ -8,4 +8,5 @@ RUN apk --no-cache --update add \
       # dig
       bind-tools \
       openssl \
+      curl \
       vim
